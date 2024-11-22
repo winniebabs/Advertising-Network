@@ -1,0 +1,39 @@
+[project]
+name = 'Advertising-Network'
+description = ''
+authors = []
+telemetry = true
+cache_dir = './.cache'
+requirements = []
+[contracts.ad-network_]
+path = 'contracts/ad-network_.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.bug-bounty]
+path = 'contracts/bug-bounty.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.decentralized-charity]
+path = 'contracts/decentralized-charity.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.peer-review]
+path = 'contracts/peer-review.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.reputation]
+path = 'contracts/reputation.clar'
+clarity_version = 2
+epoch = 2.5
+[repl.analysis]
+passes = ['check_checker']
+
+[repl.analysis.check_checker]
+strict = false
+trusted_sender = false
+trusted_caller = false
+callee_filter = false

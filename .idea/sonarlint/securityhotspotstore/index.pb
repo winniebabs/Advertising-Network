@@ -1,3 +1,23 @@
 
 9
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+J
+contracts/ad-network_.clar,a/7/a716a29a79eafce132c769105ea28fb39abc6547
+I
+tests/ad-network_.test.ts,f/0/f0bfea7960533bc2e8b3c6c5b499b2cd7ab8e97c
+I
+contracts/bug-bounty.clar,9/0/9030c51168635286c89f1bf4df1f4ab4d8b70df9
+H
+tests/bug-bounty.test.ts,0/3/0328ca659fe8b474f900a307d934ba36fd5d17f8
+T
+$contracts/decentralized-charity.clar,1/5/15dd92a05ee1040768e1e295806f665de7db09f9
+S
+#tests/decentralized-charity.test.ts,8/c/8c988c77393c14d4343eaa083dc86036b3fb756f
+J
+contracts/peer-review.clar,3/f/3fbff5bcca5f761a6bcd1d3c6652e581337d18f6
+I
+tests/peer-review.test.ts,3/8/382e00409fd4c2aa1a8aaa033f28fcbdea8fc507
+I
+contracts/reputation.clar,1/b/1b2d9375e0af848678aba3edffa09d6ef4e1fb40
+H
+tests/reputation.test.ts,9/1/913d34502bb88f0309866e5600405f432c0274a0
