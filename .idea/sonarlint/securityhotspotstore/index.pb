@@ -7,3 +7,7 @@ I
 tests/ad-network_.test.ts,f/0/f0bfea7960533bc2e8b3c6c5b499b2cd7ab8e97c
 I
 contracts/bug-bounty.clar,9/0/9030c51168635286c89f1bf4df1f4ab4d8b70df9
+H
+tests/bug-bounty.test.ts,0/3/0328ca659fe8b474f900a307d934ba36fd5d17f8
+T
+$contracts/decentralized-charity.clar,1/5/15dd92a05ee1040768e1e295806f665de7db09f9
