@@ -24,6 +24,11 @@ epoch = 2.5
 path = 'contracts/peer-review.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.reputation]
+path = 'contracts/reputation.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
